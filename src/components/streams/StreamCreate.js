@@ -35,6 +35,10 @@ class  StreamCreate extends React.Component  {
              this.props.createStream(formValues);
            //event.preventDefault(); 
        } 
+      
+      
+      
+  
     render(){
     //console.log(this.props);
     return (
